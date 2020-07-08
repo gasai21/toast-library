@@ -1,6 +1,6 @@
 <pre>
 <code>
-	allprojects {
+allprojects {
 	repositories {
 		...
 		<b>maven { url 'https://jitpack.io' }</b>
